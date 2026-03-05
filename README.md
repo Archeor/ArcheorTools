@@ -70,4 +70,9 @@ A collection of low-level Discord client experiments and utilities written in [P
 - [x] - [Tracker] - Tracks user, messages on other servers (you must be joined), calls, games.
 - [x] - [Old Profile View] - Show user's old Profile Photos, BIOs, Usernames, Names, Pronouns.     
 
+
+
+Funny gif for Blacklist System
+<img width="272" height="163" alt="image" src="https://github.com/user-attachments/assets/c2315a9d-d3ed-4dd0-beb8-de3a58a53a92" />
+
 ```bash
