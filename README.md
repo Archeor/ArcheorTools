@@ -20,7 +20,6 @@ A collection of low-level Discord client experiments and utilities written in [P
 - Request / IP logging middleware 
 - Blacklist / block evasion experiments
 - Rate-limit & anti-spam bypass attempts
-- ... and many many broken PoCs
 
 ## 📌 Important warnings
 
