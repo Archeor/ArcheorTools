@@ -1,6 +1,5 @@
 <p align="center">
   <img width="1824" height="560" alt="image" src="https://github.com/user-attachments/assets/fb5f7e48-23d8-43f8-89ab-fb4ec993d3fa" />
-">
 </p>
 
 # Archeor Tools
